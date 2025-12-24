@@ -177,4 +177,7 @@ python ui.py
 </div>
 
 
+## خروجی پروژه
+
+**آموزش مدل
 ![Tune Sense UI Preview](1.png)
