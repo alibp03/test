@@ -158,3 +158,6 @@ python ui.py
 - بررسی تاریخچهٔ آهنگ‌ها در پنل کناری
 
 </div>
+
+
+![Tune Sense UI Preview](1.png)
