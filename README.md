@@ -53,25 +53,22 @@ Tune Sense یک سیستم هوشمند برای تشخیص ژانر موسیق�
 
 ## 📂 ساختار پروژه
 
-<div dir="ltr">
-```
 music-AI/
 │
 ├── data/
-│   └── genres_original/
+│   └── genres_original/       # دیتاست (دسته‌بندی‌شده بر اساس ژانر)
 │
 ├── model/
-│   ├── svm_model.pkl
-│   ├── scaler.pkl
-│   └── label_encoder.pkl
+│   ├── svm_model.pkl          # مدل آموزش‌دیده SVM
+│   ├── scaler.pkl             # اسکیلر ویژگی‌ها
+│   └── label_encoder.pkl      # انکودر برچسب ژانرها
 │
-├── feature_extraction.py
-├── predict.py
-├── train_model.py
-├── ui.py
-├── README.md
-```
-</div>
+├── feature_extraction.py      # استخراج ویژگی‌های صوتی کلاسیک
+├── predict.py                 # منطق پیش‌بینی و استخراج ویژگی
+├── train_model.py             # اسکریپت آموزش مدل
+├── ui.py                      # رابط کاربری گرافیکی
+├── README.md                  # مستندات پروژه
+
 
 ---
 
