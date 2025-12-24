@@ -177,7 +177,13 @@ python ui.py
 </div>
 
 
+
 ## خروجی پروژه
 
-**آموزش مدل
-![Tune Sense UI Preview](1.png)
+**آموزش مدل**
+
+![Tune Sense UI Preview](image/2.png)
+
+**انتخاب موزیک برای پیش بینی**
+
+![Tune Sense UI Preview](image/4.png)
